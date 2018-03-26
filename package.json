@@ -1,0 +1,19 @@
+{
+  "name": "react-reactive-form-ui",
+  "version": "1.0.0",
+  "description": "Form UI components for both React & React-Native, compatible with react-reactive-form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bietkul/react-reactive-form-ui.git"
+  },
+  "author": "Kuldeep Saxena <kul.anjuma@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bietkul/react-reactive-form-ui/issues"
+  },
+  "homepage": "https://github.com/bietkul/react-reactive-form-ui#readme"
+}
